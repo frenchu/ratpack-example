@@ -1,0 +1,5 @@
+org.frenchu.repograbber.github:
+  url: http://non-existent.host.com
+  security:
+    user:  frenchu
+    token: 8fe222cbc858224b1b1c05be8f9bd41b6ff098bd

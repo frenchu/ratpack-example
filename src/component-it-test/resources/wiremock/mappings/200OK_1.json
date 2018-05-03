@@ -1,0 +1,24 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/repos/frenchu/hello-world",
+    "headers": {
+      "Authorization": {
+        "equalTo": "Basic dGVzdHVzZXI6dGVzdHRva2Vu"
+      },
+      "User-Agent": {
+        "equalTo": "RatPack"
+      },
+      "Accept": {
+        "equalTo": "application/vnd.github.v3+json"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    },
+    "bodyFileName": "github_frenchu_hello-world_reponse.json"
+  }
+}

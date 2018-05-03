@@ -1,0 +1,6 @@
+spring.main.web-environment: false
+org.frenchu.repograbber.github:
+  url: http://localhost:8080
+  security:
+    user:  testuser
+    token: testtoken

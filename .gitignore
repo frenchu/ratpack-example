@@ -1,0 +1,10 @@
+target/
+.idea
+.settings/
+.classpath
+.project
+.springBeans
+*.log
+*.iml
+/application.properties
+/application.yml

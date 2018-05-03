@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "org.frenchu.repograbber.github.url",
+    "type": "java.lang.String",
+    "description": "GitHub REST API v3 URL."
+  },
+  {
+    "name": "org.frenchu.repograbber.github.security.user",
+    "type": "java.lang.String",
+    "description": "Username used to login to GitHub."
+  },
+  {
+    "name": "org.frenchu.repograbber.github.security.token",
+    "type": "java.lang.String",
+    "description": "Personal Access Token obatined from https://github.com/settings/tokens."
+  }
+]}

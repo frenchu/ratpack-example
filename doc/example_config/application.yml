@@ -1,0 +1,8 @@
+server.port: 5060
+logging:
+  level.org.frenchu.repograbber: DEBUG
+  file: repograbber.log
+org.frenchu.repograbber.github:
+  security:
+    user:  username
+    token: personaltoken
