@@ -2,4 +2,4 @@ org.frenchu.repograbber.github:
   url: https://api.github.com
   security:
     user:  frenchu
-    token: 8fe222cbc858224b1b1c05be8f9bd41b6ff098bd
+    token: 1376e22c92d4c2b2805e430d788a1df59f99406f

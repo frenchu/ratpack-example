@@ -1,13 +1,6 @@
 package org.frenchu.repograbber.github
 
-import java.time.Instant
-
-import org.frenchu.repograbber.dto.RepositoryDetailsRS
-import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.autoconfigure.json.JsonTest
-import org.springframework.boot.test.json.JacksonTester
-
-import ratpack.http.MediaType
 import ratpack.http.Status
 import spock.lang.Unroll
 

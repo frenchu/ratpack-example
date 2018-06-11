@@ -1,10 +1,9 @@
 package org.frenchu.repograbber.github
 
-import static org.frenchu.repograbber.github.Configuration.CORRECT
-import static org.frenchu.repograbber.github.Configuration.INCORRECT_HOST
-
 import ratpack.http.Status
 import spock.lang.Unroll
+
+import static org.frenchu.repograbber.github.Configuration.INCORRECT_HOST
 
 @Unroll
 class ServerErrorEndToEndIT extends AbstractEndToEndIT {

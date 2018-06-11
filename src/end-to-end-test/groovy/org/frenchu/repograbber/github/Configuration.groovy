@@ -5,7 +5,7 @@ enum Configuration {
     INCORRECT_CREDENTIALS("badcredentials"),
     INCORRECT_HOST("badhost")
     
-    private String value
+    String value
 
     Configuration(String value) {
         this.value = value
